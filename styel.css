@@ -1,0 +1,11 @@
+.form>input{
+    outline: none;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
+input{
+    padding: 5px;
+    border-radius: 1rem;
+}
